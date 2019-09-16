@@ -1,0 +1,50 @@
+body{
+    width: 600px;
+    height: 850px;
+    font-family:verdana;
+    margin: 20px auto;
+}
+.h4{
+    background-color: rgb(230,230,219); 
+    height: 30px;
+    width: 520px;
+    padding: 20px;
+    font-size: 20px;
+    float: left;
+}
+form{
+    border: 0px solid snow;
+    background-color: rgb(230,230,227); 
+    width: 460px;  
+    height: 500px;
+    padding-left: 100px;
+    padding-top: 20px;
+    float: left;
+}
+#submit{
+    background-color: rgb(0, 204, 102);
+    height: 40px;
+    width: 345px;
+    border-radius: 10px;
+    border-style: none;
+    margin: 0 auto;
+    color: snow;   
+}
+.space{
+    height: 30px;
+    width: 345px;
+    background-color: rgb(240, 240, 245); 
+    margin: 10px 0px;
+    border-style: none;
+}
+.txt{
+    margin-top: 10px;
+}
+.back{
+	text-decoration: none;
+	color: black;
+}
+
+.invoice{
+    border: 1px;
+}
